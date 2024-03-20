@@ -15,14 +15,14 @@ export default function Hero1() {
           <p className='text-base my-2 font' style={{fontFamily:"Instagram Sans light"}}>Hello! I'm Dheerendra a seasoned anchor known for blending charisma with credibility.
             With a passion for storytelling and a knack for live broadcasts, <b>I bring a unique energy to every event.
             From breaking news to engaging interviews</b>, I'm dedicated to keeping viewers informed and engaged</p>
-        <h1 className='sm:text-7xl text-5xl font-bold my-2' style={{fontFamily:"Instagram Sans Medium"}}>10+ Years</h1>
-        <p className='text-xl my-2 font-semibold' style={{fontFamily:"Instagram Sans Medium","color":'rgb(4,233,5)'}}>In Public Experience</p>
+        <h1 className='sm:text-7xl text-5xl font-bold my-2' style={{fontFamily:"Instagram Sans Medium"}} data-aos="fade-left">10+ Years</h1>
+        <p className='text-xl my-2 font-semibold' style={{fontFamily:"Instagram Sans Medium","color":'rgb(4,233,5)'}} data-aos="fade-up">In Public Experience</p>
        
-        <h1 className='sm:text-7xl text-5xl font-bold my-2' style={{fontFamily:"Instagram Sans Medium"}}>8+ Years</h1>
-        <p className='text-xl my-2 font-semibold' style={{fontFamily:"Instagram Sans Medium","color":'rgb(4,233,5)'}}>Celebrity Experience and Performance Experience</p>
+        <h1 className='sm:text-7xl text-5xl font-bold my-2' style={{fontFamily:"Instagram Sans Medium"}} data-aos="fade-left">8+ Years</h1>
+        <p className='text-xl my-2 font-semibold' style={{fontFamily:"Instagram Sans Medium","color":'rgb(4,233,5)'}} data-aos="fade-up">Celebrity Experience and Performance Experience</p>
        
-        <h1 className='sm:text-7xl text-5xl font-bold my-2' style={{fontFamily:"Instagram Sans Medium"}}>5+ Years</h1>
-        <p className='text-xl my-2 font-semibold' style={{fontFamily:"Instagram Sans Medium","color":'rgb(4,233,5)'}}>Corporate Events and Seminars Management</p>
+        <h1 className='sm:text-7xl text-5xl font-bold my-2' style={{fontFamily:"Instagram Sans Medium"}} data-aos="fade-left">5+ Years</h1>
+        <p className='text-xl my-2 font-semibold' style={{fontFamily:"Instagram Sans Medium","color":'rgb(4,233,5)'}} data-aos="fade-up">Corporate Events and Seminars Management</p>
        
         </div>
       </div>

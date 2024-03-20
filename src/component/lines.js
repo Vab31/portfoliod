@@ -1,7 +1,13 @@
 import React from 'react'
 import bg from './d.png'
+import { useEffect } from 'react';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 export default function Lines() {
+    useEffect(() => {
+        AOS.init();
+      }, [])
   return (
     <section class="text-white body-font bg-black" style={{backgroundImage: `url(${bg})`}}>
   <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
